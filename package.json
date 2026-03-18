@@ -27,7 +27,7 @@
   "devDependencies": {
     "@types/node": "^18.11.0",
     "@vercel/ncc": "^0.36.1",
-    "js-yaml": "^4.1.0",
+    "js-yaml": "^4.1.1",
     "typescript": "^5"
   },
   "prettier": {
